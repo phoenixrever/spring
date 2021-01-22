@@ -1,0 +1,25 @@
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true  #开启页面表单的Rest功能
+    contentnegotiation:
+      favor-parameter: true #开启请求参数内容协商模式 format="x-gugui"
+  servlet:
+    multipart:
+      max-file-size: 100MB
+  datasource:
+    url: jdbc:mysql://localhost/test?serverTimezone=UTC
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: 159629zxc
+logging:
+  pattern:
+    level: INFO
+
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
