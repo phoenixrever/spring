@@ -1,11 +1,5 @@
 package com.spring.demo1.service.serviceImpl;
-
-
-import com.baomidou.mybatisplus.extension.conditions.query.QueryChainWrapper;
 import com.spring.demo1.bean.User;
-import com.spring.demo1.mapper.UserMapper;
-
-import com.spring.demo1.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.AuthorityUtils;
@@ -33,7 +27,9 @@ public class MyUserDetailsServiceImpl implements UserDetailsService {
             throw new UsernameNotFoundException("用户名不存在");
         }
         List<GrantedAuthority> role = AuthorityUtils.commaSeparatedStringToAuthorityList("admin");
-
+//        System.out.println(new BCryptPasswordEncoder().encode("1234"));
         return  new org.springframework.security.core.userdetails.User(user.getUsername(),new BCryptPasswordEncoder().encode(user.getPassword()),role);
     }
 }
+
+

@@ -9,14 +9,18 @@ spring:
     multipart:
       max-file-size: 100MB
   datasource:
-    url: jdbc:mysql://localhost/test?serverTimezone=UTC
+    url: jdbc:mysql://localhost/test?serverTimezone=GMT%2B8
     username: root
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: 159629zxc
+    druid:
+      filter:
+        stat:
+          log-slow-sql: true
+
 logging:
   pattern:
     level: INFO
-
 mybatis-plus:
   global-config:
     db-config:
