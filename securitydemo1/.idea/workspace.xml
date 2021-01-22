@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e9c6052-84d5-4a61-a2fd-2120360be066" name="Default Changelist" comment="spring security" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:phoenixrever/spring.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1nN2TsD8n9Y6zfamX9G3NupMEo2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Securitydemo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="securitydemo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.securitydemo1.Securitydemo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e9c6052-84d5-4a61-a2fd-2120360be066" name="Default Changelist" comment="" />
+      <created>1611216238626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611216238626</updated>
+      <workItem from="1611216247134" duration="1298000" />
+      <workItem from="1611274600362" duration="2677000" />
+    </task>
+    <task id="LOCAL-00001" summary="spring security">
+      <created>1611275676845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611275676845</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spring security">
+      <created>1611277182443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611277182443</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring security" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring security" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="291" key="#Notifications" timestamp="1611276249819">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="682" y="291" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1611276249819" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1611276721954">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1611276721954" />
+    <state width="1556" height="2" key="GridCell.Tab.0.bottom" timestamp="1611219486677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1611219486677" />
+    <state width="1556" height="2" key="GridCell.Tab.0.center" timestamp="1611219486677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1611219486677" />
+    <state width="1556" height="2" key="GridCell.Tab.0.left" timestamp="1611219486676">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1611219486676" />
+    <state width="1556" height="2" key="GridCell.Tab.0.right" timestamp="1611219486677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1611219486677" />
+    <state width="1556" height="2" key="GridCell.Tab.1.bottom" timestamp="1611219486677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1611219486677" />
+    <state width="1556" height="2" key="GridCell.Tab.1.center" timestamp="1611219486677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1611219486677" />
+    <state width="1556" height="2" key="GridCell.Tab.1.left" timestamp="1611219486677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1611219486677" />
+    <state width="1556" height="2" key="GridCell.Tab.1.right" timestamp="1611219486677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="2" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1611219486677" />
+    <state x="301" y="61" key="SettingsEditor" timestamp="1611274765407">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1611274765407" />
+    <state x="602" y="132" key="VCS.ChangeListViewerDialog" timestamp="1611276442993">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="602" y="132" key="VCS.ChangeListViewerDialog/0.0.1600.860@0.0.1600.860" timestamp="1611276442993" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1611277222974">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1611277222974" />
+    <state x="472" y="163" key="VcsDiffUtil.ChangesDialog" timestamp="1611277172776">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="472" y="163" key="VcsDiffUtil.ChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1611277172776" />
+    <state x="593" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611277297779">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="593" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1611277297779" />
+    <state x="593" y="289" key="git4idea.rebase.GitRebaseDialog" timestamp="1611276445729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="593" y="289" key="git4idea.rebase.GitRebaseDialog/0.0.1600.860@0.0.1600.860" timestamp="1611276445729" />
+    <state x="565" y="318" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1611276970138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="565" y="318" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1611276970138" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1611216934221">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1611216934221" />
+  </component>
+</project>
