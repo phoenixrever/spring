@@ -26,9 +26,11 @@ public class MyUserDetailsServiceImpl implements UserDetailsService {
         if(user==null){
             throw new UsernameNotFoundException("用户名不存在");
         }
-        List<GrantedAuthority> role = AuthorityUtils.commaSeparatedStringToAuthorityList("admin");
-//        System.out.println(new BCryptPasswordEncoder().encode("1234"));
-        return  new org.springframework.security.core.userdetails.User(user.getUsername(),new BCryptPasswordEncoder().encode(user.getPassword()),role);
+
+        //role 和 权限都可以 role可以有多个权限
+        //ROLE_  前缀不能少要和权限区分
+        List<GrantedAuthority> role = AuthorityUtils.commaSeparatedStringToAuthorityList("admin,auth,ROLE_role");
+        return  new org.springframework.security.core.userdetails.User(user.getUsername(),user.getPassword(),role);
     }
 }
 

@@ -17,6 +17,7 @@ spring:
       filter:
         stat:
           log-slow-sql: true
+#    type: com.alibaba.druid.pool.DruidDataSource
 
 logging:
   pattern:
